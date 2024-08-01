@@ -8,7 +8,7 @@
   }
   
   .header_top{
-  background-color: #08ec2eb0;
+  background-color: #20642db0;
   width: 100%;
   }
   
@@ -24,7 +24,7 @@
   }
   .header_top .header_top_content .header_top_menu{
   /*flex-basis = reserva o que sobrar de tela*/
-  flex-basis: calc(300% - 400px);
+  flex-basis: calc(3000% - 400px);
   display: flex;
   /*justify-content = alinhamento de elemento*/
   justify-content: flex-end;
@@ -53,7 +53,7 @@
   }
   .header_quemsomos{
     max-width: 1300px;
-    background-color: chartreuse;
+    background-color: rgb(93, 136, 53);
   }
   .header_quemsomos .header_quemsomos_content{
     display: flex;
